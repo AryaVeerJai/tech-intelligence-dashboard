@@ -1,6 +1,6 @@
 # 🚀 Tech Intelligence Dashboard
 
-Last Updated: <!--LAST_UPDATED-->
+Last Updated: ![Auto Update](https://img.shields.io/badge/updated-daily-brightgreen)
 
 ---
 
